@@ -4,6 +4,8 @@
 
 This is a simple graphical user interface (GUI) tool built using Python's Tkinter library for encrypting and decrypting text using Base64 encoding. It provides a straightforward way to encrypt or decrypt messages with a password-based authentication system.
 
+![Architecture Diagram](E&D.png)
+
 ## Features
 
 - **Encrypt**: Converts plain text to Base64 encoded text.
